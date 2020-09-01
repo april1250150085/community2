@@ -7,7 +7,7 @@
 
 [es](http://elasticsearch.cn/explore)
 
-[Github deploy key](https://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys)
+[Github deploy key](https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps)
 
 [Bootstrap](https://v3.bootcss.com/getting-started/)
 
@@ -20,6 +20,8 @@
 [mybatis](http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/index.html)
 
 [Visual Paradigm](http://www.visual-paradigm.com)
+
+[Flyway](https://flywaydb.org/getstarted/)
 
 ## 脚本
 '''sql
