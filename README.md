@@ -1,11 +1,13 @@
 ## 麻将社区
 
 ## 资料
+[Elasticsearch](https://elasticsearch.cn/)
+
 [Spring 文档](https://spring.io/guides)
 
 [Spring Web](https://spring.io/guides/gs/serving-web-content/)
 
-[es](http://elasticsearch.cn/explore)
+[ES](http://elasticsearch.cn/explore)
 
 [Github deploy key](https://docs.github.com/en/developers/apps/identifying-and-authorizing-users-for-github-apps)
 
@@ -14,6 +16,8 @@
 [Github OAuth](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)
 
 [Spring](https://docs.spring.io/spring-boot/docs/2.2.0.RC1/reference/htmlsingle/#boot-documentation)
+
+[Thymeleaf]()
 ## 工具
 [Git](https://git-scm.com/download)
 
@@ -22,6 +26,8 @@
 [Visual Paradigm](http://www.visual-paradigm.com)
 
 [Flyway](https://flywaydb.org/getstarted/)
+
+[Lombok](https://projectlombok.org/features/all)
 
 ## 脚本
 '''sql
